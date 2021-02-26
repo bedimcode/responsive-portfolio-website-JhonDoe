@@ -395,6 +395,13 @@ img{
 }
 
 /* ===== MEDIA QUERIES=====*/
+/* For small devices */
+@media screen and (max-width: 320px) {
+    .home__img{
+        width: 230px;
+    }
+}
+
 @media screen and(min-width: 768px){
     body{
         margin: 0;
@@ -501,5 +508,18 @@ img{
     .bd-grid{
         margin-left: auto;
         margin-right: auto;
+    }
+}
+
+/* For tall screens on mobiles y desktop*/
+@media screen and (min-height: 721px) {
+    .home{
+        &__container{
+            height: 640px;
+        }
+        &__img{
+            width: 500px;
+            right: 24%;
+        }
     }
 }
