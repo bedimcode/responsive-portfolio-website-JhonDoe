@@ -1,9 +1,13 @@
-# Responsive Portfolio Website Jhon Doe
-
+# Responsive Personal Portfolio Website
 ## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
+### Responsive Personal Portfolio Website
 
-###  Responsive Portfolio Website
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.
+- Responsive Personal Portfolio Website Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
